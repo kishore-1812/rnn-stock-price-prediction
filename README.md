@@ -38,7 +38,12 @@ Evaluate the model with the testing data
 Plot the Stock prediction plot
 
 ## PROGRAM
+```python
+print('hello')
 
+
+
+```
 https://github.com/kishore-1812/rnn-stock-price-prediction/blob/main/Ex05_StockPricePrediction_063.ipynb
 
 ## OUTPUT
