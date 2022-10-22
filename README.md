@@ -26,7 +26,7 @@ Scale the data using MinMaxScaler
 Split the data into train and test.
 
 ### STEP 4:
-Build the convolutional neural network
+Build the recurrent neural network
 
 ### STEP 5:
 Train the model with training data
